@@ -1,12 +1,12 @@
 {
-  "name": "hexo-theme-landscape",
+  "name": "hexo123",
   "version": "1.1.0",
-  "description": "Hexo Theme Landscape",
-  "repository": "hexojs/hexo-theme-landscape",
+  "description": "Hexo Theme hexo123",
+  "repository": "hexojs/hexo-theme-hexo123",
   "keywords": [
     "hexo",
     "theme",
-    "landscape"
+    "hexo123"
   ],
   "license": "MIT"
 }
